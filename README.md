@@ -1,5 +1,5 @@
 
-#**Gustavo Mendes, M.D. | Psychiatrist → Tech/AI Entrepreneur**
+# **Gustavo Mendes, M.D. | Psychiatrist → Tech/AI Entrepreneur**
 
 **Building healthcare infrastructure with specialized fine-tuned LLMs**  
 Edge-first • Offline-capable • HIPAA/LGPD-native
