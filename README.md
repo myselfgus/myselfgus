@@ -33,7 +33,7 @@ STT → RRE → RMS → Mestral → ROE → {EHR automation, clinical follow-up,
 ## 🔧 Stack
 
 **LLMs & Frameworks:**  
-`MLX` `Llama 3` `Mistral 7B` `Quantization`
+`MLX` `Llama 3` `DeepSeek` `Quantization`
 
 **Edge Infrastructure:**  
 `Apple Silicon` `HealthOS (macOS layer)` `Starlink`
