@@ -76,14 +76,6 @@ I architect complex systems by conversing with AI, then translate those architec
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfgus&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ED64&icon_color=F38020&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfgus&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ED64&text_color=C9D1D9)
-
----
-
 ## 🔗 Links
 
 - 📧 Email: [1@voither.com]
