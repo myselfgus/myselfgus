@@ -1,5 +1,5 @@
 
-# **Gustavo Mendes, M.D. | Psychiatrist → Tech/AI Entrepreneur**
+# Gustavo Mendes, M.D. | Psychiatrist → Tech/AI Entrepreneur
 
 **Building healthcare infrastructure with specialized fine-tuned LLMs**  
 Edge-first • Offline-capable • HIPAA/LGPD-native
@@ -33,10 +33,10 @@ STT → RRE → RMS → Mestral → ROE → {EHR automation, clinical follow-up,
 ## 🔧 Stack
 
 **LLMs & Frameworks:**  
-`MLX` `Llama 3` `DeepSeek` `Quantization`
+`MLX` `Llama 3` `DeepSeek` `Quantization (4-bit)`
 
 **Edge Infrastructure:**  
-`Apple Silicon` `HealthOS (macOS layer)` `Starlink`
+`Apple Silicon M3/M4 Ultra` `HealthOS (macOS layer)` `Mac Studio` `Starlink`
 
 **Cloud Layer:**  
 `Cloudflare Workers AI` `Durable Objects` `R2` `D1` `Zero-Trust (mTLS)`
@@ -48,15 +48,33 @@ STT → RRE → RMS → Mestral → ROE → {EHR automation, clinical follow-up,
 `PIR (Protocol Intermediate Representation)` `Saga Pattern` `Workflow Automation`
 
 **DevOps:**  
-`Docker` `CI/CD` 
+`Docker` `CI/CD` `Terraform` `GitHub Actions`
 
 ---
 
 ## 💡 About Me
 
-**ASD 2e** (autism spectrum) — Learned systems architecture through LLM prompting.
+**M.D. (Psychiatry) + Public Administration → AI Systems Architect**
+
+**ASD 2e** (autism spectrum, twice exceptional) — Learned systems architecture through LLM prompting.
 
 I architect complex systems by conversing with AI, then translate those architectures into production infrastructure. Meta-recursive approach: used LLMs to learn how to build systems OF specialized LLMs.
+
+### Background
+
+**Clinical & Public Health:**
+- **M.D., Psychiatry** — Clinical practice with focus on narrative medicine and patient trajectories
+- **B.Sc., Public Administration** — Policy, health systems, and government operations
+- **UNFPA (United Nations Population Fund)** — Intern at embassy, reproductive health policy
+- **WHO/PAHO Director's Council Regional Meeting** — Washington DC, 2018
+
+**Tech Transition:**
+Clinical expertise → Public health operations → AI-native healthcare infrastructure
+
+This unique path (clinician → policymaker → tech architect) informs Voither's design:
+- **Clinical intuition** embedded in RRE reasoning
+- **Health systems knowledge** drives Sortio's workflow logic
+- **Policy compliance** built into edge architecture (HIPAA/LGPD)
 
 **Recognition:**
 - Selected for MongoDB for Startups **AI Track** (exclusive)
@@ -65,11 +83,19 @@ I architect complex systems by conversing with AI, then translate those architec
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfgus&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ED64&icon_color=F38020&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfgus&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ED64&text_color=C9D1D9)
+
+---
+
 ## 🔗 Links
 
-- 📧 Email: [1@voither.com]
-- 💼 LinkedIn: [https://linkedin.com/in/drgustavomendes]
-- 👨🏻‍⚕️ M.D. webpage: [https://drgustavomendes.com]
+- 📧 Email: 1@voither.com
+- 💼 LinkedIn: https://linkedin.com/in/drgustavomendes
+- 👨🏻‍⚕️ M.D. webpage: https://drgustavomendes.com
 - 🌐 Voither: https://voither.com
 
 ---
@@ -80,6 +106,7 @@ I architect complex systems by conversing with AI, then translate those architec
 - Speaking opportunities (healthcare IT, edge AI, LLM specialization)
 - Collaborations on FHIR-compliant AI systems
 - Consulting for edge-first AI architectures
+- Global health policy + technology advisory
 
 ---
 
