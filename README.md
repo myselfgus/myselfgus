@@ -1,5 +1,5 @@
 
-# Gustavo → MedicalDoctor throw TechAI entrepeuner
+# Gustavo Mendes, M.D. Psychiatrist → MedicalDoctor throw TechAI entrepeuner
 
 **Building healthcare infrastructure with specialized fine-tuned LLMs**  
 Edge-first • Offline-capable • HIPAA/LGPD-native
