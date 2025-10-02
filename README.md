@@ -79,9 +79,9 @@ I architect complex systems by conversing with AI, then translate those architec
 ## 🔗 Links
 
 - 📧 Email: [1@voither.com]
-- 💼 LinkedIn: [www.linkedin.com/in/drgustavomendes]
-- 👨🏻‍⚕️ M.D. webpage: [www.drgustavomendes.com]
-- 🌐 Voither: www.voither.com
+- 💼 LinkedIn: [https://linkedin.com/in/drgustavomendes]
+- 👨🏻‍⚕️ M.D. webpage: [https://drgustavomendes.com]
+- 🌐 Voither: https://voither.com
 
 ---
 
