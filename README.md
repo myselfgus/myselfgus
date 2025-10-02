@@ -6,7 +6,7 @@ Edge-first • Offline-capable • HIPAA/LGPD-native
 
 [![MongoDB AI Track](https://img.shields.io/badge/MongoDB-AI_Track-00ED64?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/startups)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Startups-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/startup)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers_AI-F38020?style=flat&logo=cloudflare&logoColor=white)](https://cloudflare.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-for_Startups-F38020?style=flat&logo=cloudflare&logoColor=white)](https://cloudflare.com/startups)
 ![Healthcare + Tech](https://img.shields.io/badge/Healthcare-Policy%20%2B%20Tech-blue?style=flat&logo=medical-symbol&logoColor=white)
 
 ---
