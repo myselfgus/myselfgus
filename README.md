@@ -65,14 +65,14 @@ STT → RRE → RMS → Mestral → ROE → {EHR automation, clinical follow-up,
 
 ## 💡 About Me
 
-**TEA 2e** (Twice Exceptional) — Learned systems architecture through LLM prompting.
+**ASD 2e** (autism spectrum) — Learned systems architecture through LLM prompting.
 
 I architect complex systems by conversing with AI, then translate those architectures into production infrastructure. Meta-recursive approach: used LLMs to learn how to build systems OF specialized LLMs.
 
 **Recognition:**
 - Selected for MongoDB for Startups **AI Track** (exclusive)
 - Google Cloud for Startups **Start Tier** approved
-- Cloudflare for Startups 
+- Cloudflare for Startups **aproved**
 
 ---
 
