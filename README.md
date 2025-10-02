@@ -52,17 +52,6 @@ STT → RRE → RMS → Mestral → ROE → {EHR automation, clinical follow-up,
 
 ---
 
-## 🎯 Current Focus (18-month roadmap)
-
-- [x] Architecture validated by MongoDB, Google Cloud, Cloudflare for Startups
-- [x] Mestral Engine core components (RMS/RRE/ROE)
-- [ ] Fine-tuning specialized LLMs (Llama 3 base → domain-specific)
-- [ ] **Pilot deployment: Rio Preto (SUS)**
-- [ ] Clinical validation (IRB-approved trial)
-- [ ] Scale to regional health networks
-
----
-
 ## 💡 About Me
 
 **ASD 2e** (autism spectrum) — Learned systems architecture through LLM prompting.
@@ -72,7 +61,7 @@ I architect complex systems by conversing with AI, then translate those architec
 **Recognition:**
 - Selected for MongoDB for Startups **AI Track** (exclusive)
 - Google Cloud for Startups **Start Tier** approved
-- Cloudflare for Startups **aproved**
+- Cloudflare for Startups **approved**
 
 ---
 
