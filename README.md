@@ -2,7 +2,7 @@
 # Gustavo Mendes, M.D. | Psychiatrist → Tech/AI Entrepreneur
 
 **Building healthcare infrastructure with specialized fine-tuned LLMs**  
-Edge-first • Offline-capable • HIPAA/LGPD-native
+Edge-first • HIPAA/LGPD-native
 
 [![MongoDB AI Track](https://img.shields.io/badge/MongoDB-AI_Track-00ED64?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/startups)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Startups-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/startup)
