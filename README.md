@@ -93,20 +93,8 @@ This unique path (clinician → policymaker → tech architect) informs Voither'
 
 ---
 
-## 🤝 Open to
-
-- Technical partnerships (healthcare AI/edge computing)
-- Speaking opportunities (healthcare IT, edge AI, LLM specialization)
-- Collaborations on FHIR-compliant AI systems
-- Consulting for edge-first AI architectures
-- Global health policy + technology advisory
-
 ---
 
 <div align="center">
-
-**"First healthcare architecture where AI-native operations run completely offline at the edge"**
-
-⭐ Star repos you find interesting | 🔔 Watch for updates
 
 </div>
