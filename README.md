@@ -1,100 +1,88 @@
+# Gustavo (Gus) - Healthcare AI Systems Architect
 
-# Gustavo Mendes, M.D. | Psychiatrist → Tech/AI Entrepreneur
+**Psychiatrist (CRM-SP 218133) • Health Tech Entrepreneur • Self-taught Developer**
 
-**Building healthcare infrastructure with specialized fine-tuned LLMs**  
-Edge-first • HIPAA/LGPD-native
+## About
 
-[![MongoDB AI Track](https://img.shields.io/badge/MongoDB-AI_Track-00ED64?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/startups)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Startups-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/startup)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-for_Startups-F38020?style=flat&logo=cloudflare&logoColor=white)](https://cloudflare.com/startups)
-![Healthcare + Tech](https://img.shields.io/badge/Healthcare-Policy%20%2B%20Tech-blue?style=flat&logo=medical-symbol&logoColor=white)
+I'm a psychiatrist and former public health network manager who transitioned into healthcare technology entrepreneurship. After 18 months of self-directed learning, I've built production-grade AI systems that process clinical data at scale, combining medical expertise with technical implementation.
 
----
+### Current Focus
 
-## 🧠 What I Build
+**Founder & Technical Lead** at [Voither](https://voither.com) - AI-native healthcare platform emphasizing data sovereignty and edge-first processing architecture.
 
-**Voither Healthcare OS** — Private edge cloud for B2G healthcare operations (SUS/Brazil)
+## Technical Stack & Partnerships
 
-Core architecture:
-- **4 specialized fine-tuned LLMs** running locally on Apple Silicon (M3/M4 Ultra)
-- **Mestral Engine**: RMS (memory) + RRE (reasoning) + ROE (orchestration) + Mestral (cross-domain semantics)
-- **Edge-first deployment**: Mac Studio mini-datacenters + Starlink connectivity
-- **Sortio**: Intelligent bed regulation and patient flow orchestration
+**Active Programs:**
+- Cloudflare for Startups
+- Google for Startups
+- MongoDB for Startups AI Track
+- Microsoft for Startups
+- ElevenLabs Partnership
 
-```
-STT → RRE → RMS → Mestral → ROE → {EHR automation, clinical follow-up, network orchestration}
-```
+**Core Technologies:**
+- Cloudflare Workers AI & Platform
+- MongoDB Atlas
+- ElevenLabs (Speech-to-Text Pipeline)
+- Claude API (Clinical NLP Analysis)
+- Edge Computing Architecture
 
-**Key differentiators:**
-- PHI never leaves the edge (HIPAA/LGPD/GDPR by design)
-- 85% cost reduction vs traditional cloud-heavy healthcare IT
+## Key Projects
 
----
+### MedScribe
+Automated detection system for antipsychotic-induced cognitive impairment using computational linguistics.
 
-## 🔧 Stack
+**Technical Implementation:**
+- **Validated on 400+ clinical cases**
+- **Processing pipeline:** ~200 hours of psychiatric consultation audio (40-80GB)
+- **Speech-to-Text:** ElevenLabs integration
+- **Clinical Analysis:** Advanced Semantic Linguistics (ASL v2.0)
+- **Dimensional Framework:** 15 mental health dimensions mapped to:
+  - RDoC (Research Domain Criteria)
+  - HiTOP (Hierarchical Taxonomy of Psychopathology)
+  - Big Five Personality Traits
+  - WHODAS 2.0 (Disability Assessment Schedule)
+- **Output:** Comprehensive clinical alerts and evidence-based recommendations
 
-**LLMs & Frameworks:**  
-`MLX` `Llama 3` `DeepSeek` `Quantization (4-bit)`
+### Sortio
+Patient-facing therapeutic companion application with conversational AI and gamification elements for sustained engagement.
 
-**Edge Infrastructure:**  
-`Apple Silicon M3/M4 Ultra` `HealthOS (macOS layer)` `Mac Studio` `Starlink`
+### Espaço Mental ℳ
+15-dimensional geometric architecture for mapping mental states using NLP and prosodic analysis. Framework developed from phenomenological direct experience, formalized mathematically, and validated through AI-generated visualizations.
 
-**Cloud Layer:**  
-`Cloudflare Workers AI` `Durable Objects` `R2` `D1` `Zero-Trust (mTLS)`
+## Platform Architecture (Voither)
 
-**Data & Memory:**  
-`MongoDB Atlas` `Vector Search` `Event Sourcing` `FHIR-compliant` `AES-256`
+**Design Principles:**
+- Edge-first processing
+- Data sovereignty: patient data stays "with the patient"
+- Privacy-by-design
+- No centralized data storage
 
-**Orchestration:**  
-`PIR (Protocol Intermediate Representation)` `Saga Pattern` `Workflow Automation`
+## Background & Education
 
-**DevOps:**  
-`Docker` `CI/CD` `Terraform` `GitHub Actions`
+**Professional Experience:**
+- Technical Director, UPA (Emergency Care Unit) - Created viral healthcare management tools that eliminated bed shortages across 5 UPAs using Google Sheets-based system
+- National Director of Students
+- UN Embassy (UNFPA)
 
----
+**Education:**
+- Medicine - FAMEMA (Marília)
+- Public Administration - UNESP (Araraquara)
 
-## 💡 About Me
+**Clinical Approach:**
+Phenomenological-narrative, directive-collaborative, process-oriented methodology integrating ACT/DBT and Gestalt techniques. Focus on treating patients as complete individuals rather than diagnostic categories.
 
-**M.D. (Psychiatry) + Public Administration → AI Systems Architect**
+## Publications
 
-**ASD 2e** (autism spectrum, twice exceptional) — Learned systems architecture through LLM prompting.
+**Literary Works:**
+- "O Relojoeiro"
+- "A Bíblia de Um Deus Que Me Desobedeceu"
 
-I architect complex systems by conversing with AI, then translate those architectures into production infrastructure. Meta-recursive approach: used LLMs to learn how to build systems OF specialized LLMs.
+## Contact & Links
 
-### Background
-
-**Clinical & Public Health:**
-- **M.D., Psychiatry** — Clinical practice with focus on narrative medicine and patient trajectories
-- **B.Sc., Public Administration** — Policy, health systems, and government operations
-- **UNFPA (United Nations Population Fund)** — Intern at embassy, reproductive health policy
-- **WHO/PAHO Director's Council Regional Meeting** — Washington DC, 2018
-
-**Tech Transition:**
-Clinical expertise → Public health operations → AI-native healthcare infrastructure
-
-This unique path (clinician → policymaker → tech architect) informs Voither's design:
-- **Clinical intuition** embedded in RRE reasoning
-- **Health systems knowledge** drives Sortio's workflow logic
-- **Policy compliance** built into edge architecture (HIPAA/LGPD)
-
-**Recognition:**
-- Selected for MongoDB for Startups **AI Track** (exclusive)
-- Google Cloud for Startups **Start Tier** approved
-- Cloudflare for Startups **approved**
-
----
-
-## 🔗 Links
-
-- 📧 Email: 1@voither.com
-- 💼 LinkedIn: https://linkedin.com/in/drgustavomendes
-- 👨🏻‍⚕️ M.D. webpage: https://drgustavomendes.com
-- 🌐 Voither: https://voither.com
+- 🌐 [Voither Platform](https://voither.com)
+- 📧 [Contact Information]
+- 🔬 Open to collaborations in Healthcare AI, Clinical NLP, and Edge Computing
 
 ---
 
----
-
-<div align="center">
-
-</div>
+**Note:** I'm twice-exceptional (TEA/ASD) with rhizomatic thinking patterns enabling simultaneous multi-concept processing. I value direct technical communication and production-ready implementations. All code and architectures shared are designed for production deployment, never placeholders or simplified versions.
