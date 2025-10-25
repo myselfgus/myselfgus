@@ -1,10 +1,10 @@
-# Gustavo (Gus) - Healthcare AI Systems Architect
+# Gustavo Mendes e Silva, M.D. - Healthcare AI Systems Architect
 
-**Psychiatrist (CRM-SP 218133) • Health Tech Entrepreneur • Self-taught Developer**
+**Brazilian Psychiatrict • Health Tech Entrepreneur • Self-taught Developer**
 
 ## About
 
-I'm a psychiatrist and former public health network manager who transitioned into healthcare technology entrepreneurship. After 18 months of self-directed learning, I've built production-grade AI systems that process clinical data at scale, combining medical expertise with technical implementation.
+I'm a psychiatrist and former public health network manager who transitioned into healthcare technology entrepreneurship.
 
 ### Current Focus
 
@@ -14,16 +14,14 @@ I'm a psychiatrist and former public health network manager who transitioned int
 
 **Active Programs:**
 - Cloudflare for Startups
-- Google for Startups
 - MongoDB for Startups AI Track
 - Microsoft for Startups
-- ElevenLabs Partnership
 
 **Core Technologies:**
 - Cloudflare Workers AI & Platform
 - MongoDB Atlas
-- ElevenLabs (Speech-to-Text Pipeline)
 - Claude API (Clinical NLP Analysis)
+- xAI API
 - Edge Computing Architecture
 
 ## Key Projects
@@ -46,7 +44,7 @@ Automated detection system for antipsychotic-induced cognitive impairment using 
 ### Sortio
 Patient-facing therapeutic companion application with conversational AI and gamification elements for sustained engagement.
 
-### Espaço Mental ℳ
+### ℳ - The MentalRender
 15-dimensional geometric architecture for mapping mental states using NLP and prosodic analysis. Framework developed from phenomenological direct experience, formalized mathematically, and validated through AI-generated visualizations.
 
 ## Platform Architecture (Voither)
@@ -61,7 +59,7 @@ Patient-facing therapeutic companion application with conversational AI and gami
 
 **Professional Experience:**
 - Technical Director, UPA (Emergency Care Unit) - Created viral healthcare management tools that eliminated bed shortages across 5 UPAs using Google Sheets-based system
-- National Director of Students
+- National Director of Students 
 - UN Embassy (UNFPA)
 
 **Education:**
@@ -74,7 +72,7 @@ Phenomenological-narrative, directive-collaborative, process-oriented methodolog
 ## Publications
 
 **Literary Works:**
-- "O Relojoeiro"
+- "The Horologist"
 - "A Bíblia de Um Deus Que Me Desobedeceu"
 
 ## Contact & Links
@@ -85,4 +83,4 @@ Phenomenological-narrative, directive-collaborative, process-oriented methodolog
 
 ---
 
-**Note:** I'm twice-exceptional (TEA/ASD) with rhizomatic thinking patterns enabling simultaneous multi-concept processing. I value direct technical communication and production-ready implementations. All code and architectures shared are designed for production deployment, never placeholders or simplified versions.
+**Note:** I'm twice-exceptional (TEA/ASD) with rhizomatic thinking patterns and I value direct technical communication.
